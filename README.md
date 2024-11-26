@@ -1,19 +1,17 @@
-# PMU-B-PersonalAI
-### xPore: An AI-Powered App for Bioinformaticians
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/a33339016191df7ef60ae3a4328a7a53199999de)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/a33339016191df7ef60ae3a4328a7a53199999de)
-### Learning from Biosignal
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/102f8d8b08ccaeaa233f5f9935656ebc401e56e8)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/102f8d8b08ccaeaa233f5f9935656ebc401e56e8)
-### AI for detecting code plagiarism
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/b95609eac8d08f42930280675709f1a61b716d5d)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/b95609eac8d08f42930280675709f1a61b716d5d)
-### BiTNet: AI for diagnosing ultrasound image
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/3f9e8c8f36be17d4fc7168c2fe5309fd4bccc03b)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/3f9e8c8f36be17d4fc7168c2fe5309fd4bccc03b)
-### Mental disorder detection from social media data
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/6817de467ed0cb09f66b3544c5aa4fe6ac2ae677)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/6817de467ed0cb09f66b3544c5aa4fe6ac2ae677)
-### AI for arresting criminal
-- Homework click[Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/381b367ba1ee831731f315a18bcda057d25a73b1)
-- Homework click [Link!](https://github.com/Thanatcha006/PMU-B-PersonalAI/commit/381b367ba1ee831731f315a18bcda057d25a73b1)
+# Personal AI Portfolio
+
+Welcome to the Portfolio of My Journey in the Personal AI Course at E-SAN Thailand Coding & AI Academy Season 2!
+
+## About Me
+I’m Parunchai Kaewkhampa (ETPCA-S0250), a computer engineering student at King Mongkut's University of Technology Thonburi. I am passionate about creating innovative solutions to build a better world.
+
+## Curriculum Overview
+The table below summarizes the different chapters I completed during the course. Each module focuses on a specific area of artificial intelligence and its real-world applications:
+| **Chapter** | **Course Name** | **Workshop** | **Note** | **Certificate** |
+|:---:|---|:---:|:---:|:---:|
+| 1 | xPore: An AI-Powered App for Bioinformaticians | 🔄 | 🔄 | 🔄 |
+| 2 | Learning from Biosignal | 🔄 | 🔄 | 🔄 |
+| 3 | AI for detecting code plagiarism | 🔄 | 🔄 | 🔄 |
+| 4 | Mental disorder detection from social media data | 🔄 | 🔄 | 🔄 |
+| 5 | BiTNet: AI for diagnosing ultrasound image | 🔄 | 🔄 | 🔄 |
+| 6 | AI for arresting criminals | 🔄 | 🔄 | 🔄 |
