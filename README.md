@@ -15,3 +15,9 @@ The table below summarizes the different chapters I completed during the course.
 | 4 | Mental disorder detection from social media data | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/E_san_coding.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=d1ff276bd674fcc9) |[☑](https://github.com/Beambeem1/Personal-AI/blob/main/Mental%20disorder%20detection%20from%20social%20media%20data%20Note)
 | 5 | BiTNet: AI for diagnosing ultrasound image | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/image_classificaiton.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=7e57ae653ee1139a&regenerate=1) | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/BiTNet%3A%20AI%20for%20Diagnosing%20Ultrasound%20Images%20Note)
 | 6 | AI for arresting criminals | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=42c6d5da50178068) |[☑](https://github.com/Beambeem1/Personal-AI/blob/main/AI%20for%20Arresting%20Criminals%20Note)
+
+# 🤖 PMU-B Personal AI Portfolio
+
+[![📺 Watch Video Presentation]([http://img.youtube.com/vi/Q9hPSNuLsXY/0.jpg)](https://youtu.be/Q9hPSNuLsXY](https://youtu.be/fyVWxIjdjkg?si=ysu1x2wK6lVBJT92))
+
+**Student: S0826 - **จัหรี พรหมสิริกุล**
