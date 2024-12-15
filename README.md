@@ -18,6 +18,6 @@ The table below summarizes the different chapters I completed during the course.
 
 # 🤖 PMU-B Personal AI Portfolio
 
-[![📺 Watch Video Presentation]([http://img.youtube.com/vi/Q9hPSNuLsXY/0.jpg)](https://youtu.be/Q9hPSNuLsXY](https://youtu.be/fyVWxIjdjkg?si=ysu1x2wK6lVBJT92))
+[![📺 Watch Video Presentation](https://youtu.be/fyVWxIjdjkg?si=ysu1x2wK6lVBJT92)
 
 **Student: S0826 - **จัหรี พรหมสิริกุล**
