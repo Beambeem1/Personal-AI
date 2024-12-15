@@ -1,0 +1,19 @@
+Data Acquisition
+Surveys: Conducted to assess youth interest in coding, AI education, and their career goals.
+Focus Groups: Gathered feedback from youth, educators, and professionals about the project.
+Ultrasound Screenings: Conducted every six months for youth in the region, identifying those at risk for specific health conditions.
+Data Preparation
+Data Collection: Ultrasound images are collected through portable machines and tele-radio consultations, stored in a secure database.
+Data Cleaning: Images undergo segmentation and noise removal to ensure clarity.
+Data Labeling: Expert radiologists label the images as normal or abnormal using a standardized classification scheme.
+Data Augmentation: Techniques like horizontal and vertical shifts, rotations, brightness adjustments, shearing, and zooming are used to enhance dataset size and diversity.
+Model Development
+Model Selection: EfficientNetB5 is chosen for its state-of-the-art performance in image classification, while BiTNet is used for medical image classification tasks.
+Training Steps:
+Pre-training: EfficientNetB5 is pre-trained on ImageNet with over 14 million images.
+Fine-tuning: The model is fine-tuned on the ultrasound dataset using the Adam optimizer for 100 epochs.
+Future Work
+AI for CCA Screening: The system can detect cholangiocarcinoma (CCA) from ultrasound images, potentially improving early detection and treatment.
+Diagnose 25 Abnormalities: AI models could expand to diagnose a broader range of conditions in the upper abdomen.
+Current Usage: The system is in use at Srinagarind Hospital and 205 affiliated hospitals, impacting real-world healthcare.
+Cloud-based AI Services: Expanding access to AI tools for wider use.
