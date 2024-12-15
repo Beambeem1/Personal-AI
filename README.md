@@ -14,4 +14,4 @@ The table below summarizes the different chapters I completed during the course.
 | 3 | AI for detecting code plagiarism | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Jakree.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=1e8af4831fd21abc) |
 | 4 | Mental disorder detection from social media data | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/E_san_coding.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=d1ff276bd674fcc9) |
 | 5 | BiTNet: AI for diagnosing ultrasound image | 🔄  | 🔄 |
-| 6 | AI for arresting criminals | ☑  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=42c6d5da50178068) |
+| 6 | AI for arresting criminals | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=42c6d5da50178068) |[☑](https://github.com/Beambeem1/Personal-AI/blob/main/AI%20for%20Arresting%20Criminals%20Note)
