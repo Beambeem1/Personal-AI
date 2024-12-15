@@ -1,0 +1,66 @@
+Problem Statement
+Existing techniques and tools face challenges when detecting clones with multiple modifications (e.g., added, deleted, or modified statements).
+Many tools are difficult to use because they are command-line based.
+What are Code Clones?
+Code Clones are two or more code fragments that are similar enough to be considered duplicates. They can be classified into two main types:
+
+Syntactic Clones : Identical or nearly identical code fragments, except for layout differences, white space, and comments.
+Functional Clones : Code fragments that perform the same functionality, even if the syntax or algorithms differ.
+Causes of Code Clones
+
+Copy-paste errors
+Reusing code from other projects
+Using code templates
+Automated code generation
+Modeling
+1. Data Collection and Preparation
+
+Data Source : BigCloneBench, a large and reliable dataset of code clones.
+Data Splitting : Stratified sampling to create balanced training and testing sets.
+2. Code Metrics Extraction
+
+Syntactic Metrics : 11 metrics focusing on structural characteristics (e.g., number of tokens, identifiers, operators).
+Semantic Metrics : 12 features extracted using code2vec, a neural model that represents code as vectors capturing semantic meaning.
+3. Machine Learning Models
+
+Models Considered : Decision Tree, Random Forest, and Support Vector Machine (SVM) with Sequential Minimal Optimization (SMO).
+Key Points
+
+Data Quality : Reliable dataset for training and evaluation.
+Feature Engineering : Combining syntactic and semantic metrics to capture code similarity.
+Model Exploration : Testing different machine learning models to find the best fit.
+Evaluation
+Accuracy Evaluation
+
+BigCloneBench (BCB) Dataset
+Precision, Recall, and F1-scores were calculated for different clone types.
+F1-scores ranged from 0.65 to 0.86.
+Real Software Projects
+Evaluated on three real-world projects (JUnit4, Natty, Merry).
+Precision scores ranged from 0.41 to 0.77.
+Tool Adoption Evaluation:
+
+Target Users : Computer Science students, programmers, and developers.
+User Study Methodology
+Between-Subjects design comparing a command-line tool (Simian) to a web-based tool (Merry).
+Metrics included tool usability, ease of understanding, and likeliness to use.
+Conclusions
+Key Points
+
+Merry is a web-based tool using machine learning to detect code clones.
+Goals: Improve accuracy and user experience compared to existing tools.
+Merry Engine: Uses 4 machine learning models with good performance on the BigCloneBench dataset but varied results on real projects.
+Merry Web Application: Integrates with GitHub and offers a user-friendly interface.
+Challenges and Limitations
+
+Supports only Java.
+Performance issues with code2vec.
+Evaluation performance may not reflect real-world projects.
+Scalability concerns with MongoDB.
+Small sample size in user study.
+Future Work
+Expand tool support to other languages.
+Improve code2vec performance.
+Create dedicated models for each clone type.
+Solve MongoDB limitations by querying parts of documents at a time.
+Increase the number of participants in user studies.
