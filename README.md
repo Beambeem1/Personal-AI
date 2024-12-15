@@ -18,6 +18,6 @@ The table below summarizes the different chapters I completed during the course.
 
 # 🤖 Personal AI 
 
-[![Watch the video](http://img.youtube.com/vi/fyVWxIjdjkg&t=3s/0.jpg)](https://youtu.be/fyVWxIjdjkg&t=3s)
+[![Watch the video](http://img.youtube.com/vi/fyVWxIjdjkg&t=3s/1.jpg)](https://youtu.be/fyVWxIjdjkg&t=3s)
 
 **Student: S0826 - **จัหรี พรหมสิริกุล**
