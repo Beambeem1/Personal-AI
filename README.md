@@ -16,8 +16,8 @@ The table below summarizes the different chapters I completed during the course.
 | 5 | BiTNet: AI for diagnosing ultrasound image | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/image_classificaiton.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=7e57ae653ee1139a&regenerate=1) | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/BiTNet%3A%20AI%20for%20Diagnosing%20Ultrasound%20Images%20Note)
 | 6 | AI for arresting criminals | [☑](https://github.com/Beambeem1/Personal-AI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)  | [☑](https://powerclass.org/tutor-certificate-3/?cert_hash=42c6d5da50178068) |[☑](https://github.com/Beambeem1/Personal-AI/blob/main/AI%20for%20Arresting%20Criminals%20Note)
 
-# 🤖 PMU-B Personal AI Portfolio
+# 🤖 Personal AI 
 
-[![📺 Watch Video Presentation](https://youtu.be/fyVWxIjdjkg?si=ysu1x2wK6lVBJT92)
+[![Watch the video](http://img.youtube.com/vi/fyVWxIjdjkg&t=3s/0.jpg)](https://youtu.be/fyVWxIjdjkg&t=3s)
 
 **Student: S0826 - **จัหรี พรหมสิริกุล**
